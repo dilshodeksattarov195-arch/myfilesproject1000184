@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdpdate",
+        "uuid": 57592,
+        "checksum": "ls1205"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
